@@ -1,5 +1,5 @@
 # CommandLine3DSimulation
-Programa de simulação e visualização de objetos geométricos 3D inteiramente na linha de comando, feito em Python:
+Programa de simulação e visualização de objetos geométricos 3D inteiramente na linha de comando, feito em Python.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58156196/116782085-8d0c3500-aa5d-11eb-811f-fc8926257d29.png" width="500" />
